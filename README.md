@@ -22,3 +22,12 @@ As a authorized admin you can:
 - CRUD operations on movies and shows
 - CRUD operations on users
 
+
+## Set up this Project
+
+This project contains a devcontainer wich you can open up with Docker.
+
+- run `npm install` and `npm run dev` to make packages such as tailwind work.
+
+- run `php artisan serve` to serve the application.
+
